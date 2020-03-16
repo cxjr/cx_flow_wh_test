@@ -1,4 +1,4 @@
---testing CxFlowConnectivity4
+--testing CxFlowConnectivity5
 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 
 > ### Please note that The BodgeIt Store is no longer being worked on
@@ -15,7 +15,7 @@ Some of its features and characteristics:
 * No separate db to install and configure - it uses an 'in memory' db that is automatically (re)initialized on start up
 
 All you need to do is download and open the zip file, and then extract the war file into the webapps directory of your favorite servlet engine.
-
+http://bdc4aad1.ngrok.io
 Then point your browser at (for example) http://localhost:8080/bodgeit
 
 You may find it easier to find vulnerabilities using a pen test tool.
